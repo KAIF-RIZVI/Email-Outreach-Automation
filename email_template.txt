@@ -1,0 +1,26 @@
+I can't dance, I don't sing, and I'm terrible at wasting time. But I do enjoy building things, solving problems, and creating value. Whether it's writing clean code, solving challenging engineering problems, or turning ideas into working products, that's where I thrive. I'm looking for a team where I can contribute to building something meaningful—whether it's taking an idea from 0 → 1 or helping scale it from 1 → 100.
+
+Hi {name},
+
+I hope you're doing well.
+
+I've been following {company}, and I genuinely admire what your team is building. I wanted to reach out to explore Software Development Engineer opportunities where I could contribute.
+
+I bring a combination of technical expertise and leadership experience that allows me to contribute across different aspects of a team. My technical foundation includes Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Database Management Systems (DBMS), Computer Networks, Web Development, Artificial Intelligence, Descriptive Statistics, Git & GitHub, with VS Code as my primary development environment.
+
+Beyond technology, I've developed leadership, communication, problem-solving, and relationship-building skills through hands-on experience working with people and leading initiatives. These experiences have taught me to take ownership, collaborate effectively, and deliver results.
+
+My biggest strength is ownership. Whether it's building something from scratch, solving complex problems, or contributing to team goals, I take responsibility from start to finish. I enjoy learning quickly, adapting to new challenges, and turning ideas into real solutions.
+
+I'd love the opportunity to contribute to {company}, learn from your team, and help build products that create real impact.
+
+I've attached my resume for your review. If you think my background aligns with your team's needs, I'd be grateful for the opportunity to connect and discuss how I can contribute.
+
+Thank you for your time and consideration. I look forward to hearing from you.
+
+[Your Name]
+
+Email: [Your Email]
+Mobile: [Your Mobile Number]
+LinkedIn: [Your LinkedIn Profile]
+Portfolio: [Your Portfolio Website]
